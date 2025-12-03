@@ -1,4 +1,4 @@
-# CamiloQuintero08
+# Soy Juan Camilo
 
 Soy un estudiante de programacion de la insitucion educativa Politecnico Colombiano Jaime Isaza Cadavid
 
