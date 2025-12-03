@@ -16,12 +16,10 @@
 
 ###  Sobre mí
 
-Soy un apasionado por la tecnología y el desarrollo web, actualmente profundizando mis conocimientos en **Frontend** y **Backend**. .
-
--  Actualmente estoy trabajando en proyectos con **SpringBoot** y **Astro**.
--  Estoy aprendiendo sobre **Arquitectura de Software** y buenas prácticas.
--  Estudio una tecnica de programacion de sistemas de informacion en ciclos propedeuticos en el PJIC.
-
+Soy un apasionado por la tecnología y el desarrollo web, actualmente profundizando mis conocimientos en mi carrera profesional como
+tecnico en programacion de sistemas de informacion en ciclos propedeuticos en la universidad Politecnico Colombiano Jaime Isaza Cadavid. 
+Para mejorar mi conocimiento me encuentro realizando proyectos de practica con SpringBoot y Astro acompañados de Tailwind
+los cuales pudes visualizar en mi perfil o en mi portafolio.
 
 ---
 
