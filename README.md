@@ -16,10 +16,13 @@
 
 ###  Sobre mí
 
-Soy un apasionado por la tecnología y el desarrollo web, actualmente profundizando mis conocimientos en mi carrera profesional como
-tecnico en programacion de sistemas de informacion en ciclos propedeuticos en la universidad Politecnico Colombiano Jaime Isaza Cadavid. 
-Para mejorar mi conocimiento me encuentro realizando proyectos de practica con SpringBoot y Astro acompañados de Tailwind
-los cuales pudes visualizar en mi perfil o en mi portafolio.
+Soy una persona responsable y analítica, con gran interés por el desarrollo de software. Actualmente curso
+mi formación universitaria en programación, donde he fortalecido mis bases en el área y he adquirido
+conocimientos generales en desarrollo de aplicaciones web y bases de datos. Me destaco por mi rápida
+capacidad de aprendizaje, adaptación al cambio, trabajo en equipo y orientación a la resolución de
+problemas, buscando siempre mejorar mis habilidades y crecer profesionalmente durante mi proceso de
+formación.
+
 
 ---
 
