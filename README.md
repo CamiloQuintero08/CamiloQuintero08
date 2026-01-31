@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 align="center">¡Hola! Soy Juan Camilo </h1>
+  <h1 align="center">Juan Camilo Quintero </h1>
   <h3>Desarrollador de Software en formación</h3>
   
-  <p>Estudiante del <b>Politécnico Colombiano Jaime Isaza Cadavid</b> 🎓</p>
+  <p>Estudiante del <b>Politécnico Colombiano Jaime Isaza Cadavid</b></p>
 
   <a href="https://porfolio-juan-camilo.netlify.app/">
     <img src="https://img.shields.io/badge/Portafolio-Ver_Web-2ea44f?style=for-the-badge&logo=google-chrome" alt="Portafolio Web" />
@@ -48,6 +48,6 @@ Aquí puedes ver las tecnologías que domino y utilizo en mis proyectos:
 
 <div align="center">
   <p>Gracias por visitar mi perfil</p>
-  <p>👇 Visita mi portafolio para ver mis proyectos en vivo 👇</p>
+  <p>Visita mi portafolio para ver mis proyectos en vivo</p>
   <h3><a href="https://porfolio-juan-camilo.netlify.app/">porfolio-juan-camilo.netlify.app</a></h3>
 </div>
